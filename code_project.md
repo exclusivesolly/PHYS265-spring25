@@ -1,6 +1,6 @@
-# PHYS265 Code Project (April 26, 2024)
+# PHYS265 Code Project (draft 2025)
 
-   See also: https://github.com/astroumd/PHYS265-spring24/blob/main/code_project.md
+   See also: https://github.com/astroumd/PHYS265-spring25/blob/main/code_project.md
    
 This *Code Project* is an alternative to taking the 3rd midterm exam
 on May 1st.  In this project you will select a (python based) open
