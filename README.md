@@ -3,10 +3,17 @@
 
 In this class we will use python and git ...
 
-## Python
+##  JupyterLab Desktop
 
-We recommend installing anaconda python from [Anaconda](https://www.anaconda.com/).
-Two common way to execute python codes are:
+we used to recommend installing anaconda python from [Anaconda](https://www.anaconda.com/).
+but this year we are switching to JupyterLab Desktop. This is a separate app that looks like
+running jupyter in a browser,  but is not using your browwser. It also comes with python
+embedded, so there is no more need to install python separately.
+
+Installation will be Homework1 and the installation material is on
+https://github.com/jupyterlab/jupyterlab-desktop,
+
+## Other
 
 ### 1. Jupyter Notebook / Lab
 
@@ -19,6 +26,20 @@ Interactive inside a browser
 Interactive in a special GUI, much like MATLAB
 
 *a nice figure will go here*
+
+
+## Conversion python/notebooks
+
+Install jupytext:
+
+      pip install jupytext
+
+Conversion between a notebook (.ipynb) file to a spyder (.py) file:
+
+      jupytext --to ipynb test.py
+
+      jupytext --to py test.ipynb
+
 
 ## Codes
 
