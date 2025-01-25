@@ -24,10 +24,15 @@ In git terminology, all we need is:  clone, add, commit, pull and push.
 For both MacOS and Windows has a nice GUI frontend to git called *GitHub Desktop*, which you can install
 from https://desktop.github.com.  This application greatly simplifies working with Git.
 
+### GUI: Github Desktop for Linux
+
+https://github.com/shiftkey/desktop/releases
+
 ### GUI: GitKraken for Linux
 
 More on this as Peter hasn't really used git desktop GUI's.  There are other useful
 GUI applications to browse a local repo, e.g. **gitg** and **gitk**.
+
 
 ### CLI: Linux / Mac / Win
 
