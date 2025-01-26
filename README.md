@@ -1,7 +1,15 @@
-# PHYS265
+# PHYS265: Introduction to Scientific Programming (with python)
 
+Introduction to scientific programming with python. Basic data types,
+sequences, input/output, and program control flow
+structures. Evaluation and plotting of mathematical functions and
+data. Statistical interpretation of data, and fitting of data to
+models. Introduction to numerical methods including integration,
+solutions of ordinary differential equations, and linear
+algebra. Extensive use of the numpy, matplotlib, and scipy packages.
 
-In this class we will use python and git ...
+In this class we will also introduce git to submit the labs and
+final coding project.
 
 ##  JupyterLab Desktop
 
@@ -17,7 +25,7 @@ https://github.com/jupyterlab/jupyterlab-desktop,
 
 ### 1. Jupyter Notebook / Lab
 
-Interactive inside a browser
+Interactive inside a browser or this year (in 2025) the new *JupyterLab Desktop*
 
 *a nice figure will go here*
 
@@ -27,6 +35,12 @@ Interactive in a special GUI, much like MATLAB
 
 *a nice figure will go here*
 
+### 3. Colab
+
+Google colab (https://colab.research.google.com) is another way, using Google's cloud services, to
+work with jupyter notebooks. 
+
+*a nice figure will go here*
 
 ## Conversion python/notebooks
 
