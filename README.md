@@ -13,32 +13,34 @@ final coding project.
 
 ##  JupyterLab Desktop
 
-we used to recommend installing anaconda python from [Anaconda](https://www.anaconda.com/).
+We used to recommend installing anaconda python from [Anaconda](https://www.anaconda.com/).
 but this year we are switching to JupyterLab Desktop. This is a separate app that looks like
 running jupyter in a browser,  but is not using your browwser. It also comes with python
 embedded, so there is no more need to install python separately.
 
-Installation will be Homework1 and the installation material is on
-https://github.com/jupyterlab/jupyterlab-desktop,
+Installation will outlines in Homework1 in your ELMS page.
 
 ## Other
 
 ### 1. Jupyter Notebook / Lab
 
 Interactive inside a browser or this year (in 2025) the new *JupyterLab Desktop*
+See https://github.com/jupyterlab/jupyterlab-desktop.
+
 
 *a nice figure will go here*
 
 ### 2. Spyder
 
-Interactive in a special GUI, much like MATLAB
+Interactive in a special GUI, much like MATLAB. Comes with anaconda3.
+See https://www.spyder-ide.org/
 
 *a nice figure will go here*
 
 ### 3. Colab
 
-Google colab (https://colab.research.google.com) is another way, using Google's cloud services, to
-work with jupyter notebooks. 
+Google colab is another way, using Google's cloud services, to
+work with jupyter notebooks. See https://colab.research.google.com
 
 *a nice figure will go here*
 
