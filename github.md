@@ -1,4 +1,4 @@
-# git and github
+# git and github (2025 draft)
 
 [**git**](https://xkcd.com/1597/) is arguably the most common Version
 Control System on the market and very popular with Open Source
@@ -37,7 +37,7 @@ GUI applications to browse a local repo, e.g. **gitg** and **gitk**.
 ### CLI: Linux / Mac / Win
 
 With Linux, Mac or Window+WSL (Windows subsystem for Linux)
-git is already included. Try the command **git --version** in
+git is already included. Try the command **git \-\-version** in
 a terminal and you should see something like 2.34.1 - the exact version does not matter for
 us very much. There is also an official "Github CLI", usually installed as the command
 **gh**.  Nobody in class should need to use  the CLI version, though it can be useful
@@ -48,7 +48,7 @@ for power users with fast fingers.
 
 0. Create an account on github.com and share your username with the instructors.
 
-1. Clone an existing repo.   Try https://github.com/astroumd/PHYS265-spring24 
+1. Clone an existing repo.   Try https://github.com/astroumd/PHYS265-spring25 
 
 2. Update this repo with a **pull**, on Desktop it's called **fetch**. Most often there is nothing.
    Look at the *History* tab
@@ -56,7 +56,7 @@ for power users with fast fingers.
    successive versions of the files.
 
 3. Create your own new repo for Lab1, and add a README file from the menu. Or create one later.
-   Strongly suggested to name this **PHYS265-spring24-labs**,   and
+   Strongly suggested to name this **PHYS265-spring25-labs**,   and
    When asked, pick a private repo.
 
 4. Modify the README file, and put your name in it.  Upload this file back to github but first committing
@@ -74,7 +74,7 @@ for power users with fast fingers.
 
    where you add your instructors:
 
-        gcarterhall
+        clark2668
         sjean022
         teuben
 
@@ -82,5 +82,5 @@ for power users with fast fingers.
    For example look at my barebones one   https://github.com/teuben/teuben/   but there are many
    better examples online.
 
-This document printed from: https://github.com/astroumd/PHYS265-spring24/blob/main/github.md
+This document printed from: https://github.com/astroumd/PHYS265-spring25/blob/main/github.md
 
