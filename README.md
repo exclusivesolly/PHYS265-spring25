@@ -1,32 +1,48 @@
-# PHYS265
+# PHYS265: Introduction to Scientific Programming
 
+Introduction to scientific programming with python. Basic data types,
+sequences, input/output, and program control flow
+structures. Evaluation and plotting of mathematical functions and
+data. Statistical interpretation of data, and fitting of data to
+models. Introduction to numerical methods including integration,
+solutions of ordinary differential equations, and linear
+algebra. Extensive use of the numpy, matplotlib, and scipy packages.
 
-In this class we will use python and git ...
+In this class we will also introduce git to submit the labs and
+final coding project.
 
 ##  JupyterLab Desktop
 
-we used to recommend installing anaconda python from [Anaconda](https://www.anaconda.com/).
+We used to recommend installing anaconda python from [Anaconda](https://www.anaconda.com/).
 but this year we are switching to JupyterLab Desktop. This is a separate app that looks like
 running jupyter in a browser,  but is not using your browwser. It also comes with python
 embedded, so there is no more need to install python separately.
 
-Installation will be Homework1 and the installation material is on
-https://github.com/jupyterlab/jupyterlab-desktop,
+Installation will outlines in Homework1 in your ELMS page.
 
 ## Other
 
 ### 1. Jupyter Notebook / Lab
 
-Interactive inside a browser
+Interactive inside a browser or this year (in 2025) the new *JupyterLab Desktop*
+See https://github.com/jupyterlab/jupyterlab-desktop.
+
 
 *a nice figure will go here*
 
 ### 2. Spyder
 
-Interactive in a special GUI, much like MATLAB
+Interactive in a special GUI, much like MATLAB. Comes with anaconda3.
+See https://www.spyder-ide.org/
 
 *a nice figure will go here*
 
+### 3. Colab
+
+Google colab is another way, using Google's cloud services, to
+work with jupyter notebooks. See https://colab.research.google.com
+
+*a nice figure will go here*
 
 ## Conversion python/notebooks
 
